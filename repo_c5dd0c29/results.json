@@ -1,0 +1,16 @@
+{
+    "repository": "https://github.com/incharavinay06-bot/hand-gesture-painting",
+    "branch": "RIFT_ORGANISERS_SAIYAM_KUMAR_AI_FIX",
+    "failures": 1,
+    "fixes": 1,
+    "status": "FAILED",
+    "fixes_list": [
+        {
+            "file": "repo_c5dd0c29\\exp1.py",
+            "bug_type": "LINTING",
+            "line_number": "-",
+            "commit_message": "[AI-AGENT] Fixed linting issue",
+            "status": "\u2713 Fixed"
+        }
+    ]
+}

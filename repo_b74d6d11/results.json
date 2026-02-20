@@ -1,0 +1,142 @@
+{
+    "repository": "https://github.com/incharavinay06-bot/hand-gesture-painting",
+    "branch": "TRIPLEBYTE_INCHARA_VINAY_AI_FIX",
+    "failures": 10,
+    "fixes": 5,
+    "status": "FAILED",
+    "elapsed_time": 5.85,
+    "fixes_list": [
+        {
+            "file": "exp1.py",
+            "bug_type": "LINTING",
+            "line_number": "-",
+            "commit_message": "[AI-AGENT] Fixed linting issue",
+            "status": "\u2713 Fixed"
+        },
+        {
+            "file": "Multiple",
+            "bug_type": "TYPE_ERROR",
+            "line_number": "-",
+            "commit_message": "[AI-AGENT] Type issues found",
+            "status": "\u2717 Failed"
+        },
+        {
+            "file": "Multiple",
+            "bug_type": "LOGIC",
+            "line_number": "-",
+            "commit_message": "[AI-AGENT] Test failures detected",
+            "status": "\u2717 Failed"
+        },
+        {
+            "file": "exp1.py",
+            "bug_type": "LINTING",
+            "line_number": "-",
+            "commit_message": "[AI-AGENT] Fixed linting issue",
+            "status": "\u2713 Fixed"
+        },
+        {
+            "file": "Multiple",
+            "bug_type": "TYPE_ERROR",
+            "line_number": "-",
+            "commit_message": "[AI-AGENT] Type issues found",
+            "status": "\u2717 Failed"
+        },
+        {
+            "file": "Multiple",
+            "bug_type": "LOGIC",
+            "line_number": "-",
+            "commit_message": "[AI-AGENT] Test failures detected",
+            "status": "\u2717 Failed"
+        },
+        {
+            "file": "exp1.py",
+            "bug_type": "LINTING",
+            "line_number": "-",
+            "commit_message": "[AI-AGENT] Fixed linting issue",
+            "status": "\u2713 Fixed"
+        },
+        {
+            "file": "Multiple",
+            "bug_type": "TYPE_ERROR",
+            "line_number": "-",
+            "commit_message": "[AI-AGENT] Type issues found",
+            "status": "\u2717 Failed"
+        },
+        {
+            "file": "Multiple",
+            "bug_type": "LOGIC",
+            "line_number": "-",
+            "commit_message": "[AI-AGENT] Test failures detected",
+            "status": "\u2717 Failed"
+        },
+        {
+            "file": "exp1.py",
+            "bug_type": "LINTING",
+            "line_number": "-",
+            "commit_message": "[AI-AGENT] Fixed linting issue",
+            "status": "\u2713 Fixed"
+        },
+        {
+            "file": "Multiple",
+            "bug_type": "TYPE_ERROR",
+            "line_number": "-",
+            "commit_message": "[AI-AGENT] Type issues found",
+            "status": "\u2717 Failed"
+        },
+        {
+            "file": "Multiple",
+            "bug_type": "LOGIC",
+            "line_number": "-",
+            "commit_message": "[AI-AGENT] Test failures detected",
+            "status": "\u2717 Failed"
+        },
+        {
+            "file": "exp1.py",
+            "bug_type": "LINTING",
+            "line_number": "-",
+            "commit_message": "[AI-AGENT] Fixed linting issue",
+            "status": "\u2713 Fixed"
+        },
+        {
+            "file": "Multiple",
+            "bug_type": "TYPE_ERROR",
+            "line_number": "-",
+            "commit_message": "[AI-AGENT] Type issues found",
+            "status": "\u2717 Failed"
+        },
+        {
+            "file": "Multiple",
+            "bug_type": "LOGIC",
+            "line_number": "-",
+            "commit_message": "[AI-AGENT] Test failures detected",
+            "status": "\u2717 Failed"
+        }
+    ],
+    "ci_cd_timeline": [
+        {
+            "iteration": 1,
+            "status": "FAILED",
+            "timestamp": "2026-02-19 22:42:19"
+        },
+        {
+            "iteration": 2,
+            "status": "FAILED",
+            "timestamp": "2026-02-19 22:42:20"
+        },
+        {
+            "iteration": 3,
+            "status": "FAILED",
+            "timestamp": "2026-02-19 22:42:21"
+        },
+        {
+            "iteration": 4,
+            "status": "FAILED",
+            "timestamp": "2026-02-19 22:42:22"
+        },
+        {
+            "iteration": 5,
+            "status": "FAILED",
+            "timestamp": "2026-02-19 22:42:22"
+        }
+    ]
+}

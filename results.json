@@ -1,0 +1,36 @@
+{
+    "repo_url": "https://github.com/ShanKonduru/AutoVsSelfHealing",
+    "team": "asdfgh",
+    "leader": "sdfghj sdfghj",
+    "branch": "ASDFGH_SDFGHJ_SDFGHJ_AI_Fix",
+    "status": "FAILED",
+    "total_failures": 1,
+    "execution_time": "5.30s",
+    "score": 110,
+    "bugs": [
+        {
+            "file": "src/utils.py",
+            "type": "LINTING",
+            "line": 15,
+            "commit_message": "LINTING error in src/utils.py line 15 Fix: remove the import statement",
+            "status": "Fixed"
+        }
+    ],
+    "timeline": [
+        {
+            "step": "Cloning repository",
+            "status": "\u2713",
+            "time": "Fri Feb 20 02:30:02 2026"
+        },
+        {
+            "step": "CI/CD Run 1/5",
+            "status": "REPAIRING",
+            "time": "Fri Feb 20 02:30:07 2026"
+        },
+        {
+            "step": "System Error: Command '['git', 'add', '.']' returned non-zero exit status 3221225786.",
+            "status": "X",
+            "time": "Fri Feb 20 02:30:07 2026"
+        }
+    ]
+}
